@@ -1,0 +1,40 @@
+body {
+   The font will be inherited by elements nested within the body tag/
+    font-family: sans-serif;
+}
+
+center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ #headline {
+    margin-left: auto;
+    margin-right: auto;
+    width: 17em; */
+}
+
+h1{
+  text-align: center;
+}
+
+img {
+    width: 50%;
+    max-width: 500px
+}
+
+a{
+    color: gray
+    text-decoration: none;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+
+
+{text-decoration: none;
+
+}
+div.background-text-box {} */
